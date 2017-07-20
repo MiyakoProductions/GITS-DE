@@ -1,0 +1,1 @@
+Replaces the stock PSO-1 reticle with the proper MilSpec PSO-1 reticle.

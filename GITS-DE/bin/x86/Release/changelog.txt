@@ -1,0 +1,7 @@
+Version 1.3
++ Fully redesigned the interface
++ Removed SWF Flash support
++ Added a mod manager
+
+Version 1.2
++ First public release

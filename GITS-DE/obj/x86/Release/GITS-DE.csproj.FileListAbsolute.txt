@@ -1,0 +1,13 @@
+C:\Users\Arisu\Documents\Visual Studio 2015\Projects\GITS-DE\GITS-DE\bin\x86\Release\GITS-DE.exe.config
+C:\Users\Arisu\Documents\Visual Studio 2015\Projects\GITS-DE\GITS-DE\bin\x86\Release\GITS-DE.exe
+C:\Users\Arisu\Documents\Visual Studio 2015\Projects\GITS-DE\GITS-DE\bin\x86\Release\GITS-DE.pdb
+C:\Users\Arisu\Documents\Visual Studio 2015\Projects\GITS-DE\GITS-DE\bin\x86\Release\FastColoredTextBox.dll
+C:\Users\Arisu\Documents\Visual Studio 2015\Projects\GITS-DE\GITS-DE\bin\x86\Release\FastColoredTextBox.xml
+C:\Users\Arisu\Documents\Visual Studio 2015\Projects\GITS-DE\GITS-DE\obj\x86\Release\GITS_DE.about.resources
+C:\Users\Arisu\Documents\Visual Studio 2015\Projects\GITS-DE\GITS-DE\obj\x86\Release\GITS_DE.Form1.resources
+C:\Users\Arisu\Documents\Visual Studio 2015\Projects\GITS-DE\GITS-DE\obj\x86\Release\GITS_DE.mods.resources
+C:\Users\Arisu\Documents\Visual Studio 2015\Projects\GITS-DE\GITS-DE\obj\x86\Release\GITS_DE.Properties.Resources.resources
+C:\Users\Arisu\Documents\Visual Studio 2015\Projects\GITS-DE\GITS-DE\obj\x86\Release\GITS-DE.csproj.GenerateResource.Cache
+C:\Users\Arisu\Documents\Visual Studio 2015\Projects\GITS-DE\GITS-DE\obj\x86\Release\GITS-DE.exe
+C:\Users\Arisu\Documents\Visual Studio 2015\Projects\GITS-DE\GITS-DE\obj\x86\Release\GITS-DE.pdb
+C:\Users\Arisu\Documents\Visual Studio 2015\Projects\GITS-DE\GITS-DE\obj\x86\Release\GITS-DE.csprojResolveAssemblyReference.cache
